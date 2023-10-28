@@ -83,11 +83,3 @@ Here are some credentials to use our app without any hassle.
 ![Add Task](./README%20Images/addtask.png)
 
 
-## Contact Us
-As this project is open source, feel free to get in touch with us and give new perspectives and helpful recommendations.
-
-### Emails
-- prasoonrajpoot038@gmail.com
-- dlplearning00@gmail.com
-- yuvrajsinhkamaliya@gmail.com
-- patilkrushna1208@gmail.com
